@@ -1,0 +1,11 @@
+.Contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    width: 50%;
+    margin-left: 25%;
+}
+.Ch1{
+    font: bold 30px Quicksand, serif;
+    text-align: center;
+}

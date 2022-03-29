@@ -1,0 +1,14 @@
+.certificates{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+    margin: 1%;
+}
+.certif{
+   width: 100%;
+   height: 100%;
+}
+.h1{
+    font: bold 21px Quicksand, serif;
+    text-align: center;
+}
