@@ -1,4 +1,3 @@
-import './App.css';
 import Contact from './Components/Contact/Contact';
 import Address from './Components/Foot/Address';
 import NavBar from './Components/NavBar/NavBar';
